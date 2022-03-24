@@ -3,12 +3,6 @@ package com.jd.mlaas.ump.api.domain.common.util;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * DESC:
- *
- * @author <a href="mailto:huzhanfei@jd.com">Jeffrey Hu</a>
- * @date 2020/1/15
- */
 public final class RegexUtils {
 
     private RegexUtils(){}
