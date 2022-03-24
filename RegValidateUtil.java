@@ -4,11 +4,6 @@ package com.jd.mlaas.ump.api.domain.common.util;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * java验证各种格式类型工具类
- * cheng jiangyu
- * 2012-9-3 上午09:15:57
- */
 public class RegValidateUtil {
 
     //报警类别
