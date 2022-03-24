@@ -15,10 +15,6 @@ import java.net.URISyntaxException;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Create by gouyaoqing on 2018/10/22
- */
-@Slf4j
 public class HttpUtils {
     private static OkHttpClient client = new OkHttpClient.Builder()
             .connectTimeout(10, TimeUnit.SECONDS)
